@@ -1,0 +1,8 @@
+x = input("Please enter a word: ")
+
+
+if x[0] == "I" and x[1] == "s":
+     print(x) 
+else:   
+     print("ls" + x)
+   
